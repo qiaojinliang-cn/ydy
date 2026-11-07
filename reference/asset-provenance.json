@@ -1,0 +1,232 @@
+[
+  {
+    "url": "https://eden.so/features/boards/cards/notebook-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/notebook-thumb.jpg",
+    "bytes": 37025,
+    "status": 200,
+    "sha256": "1f8e462a3e9311297bab12018acf147797524c4fe21858afcbe62b7e0442e197",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/bloom-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/bloom-thumb.jpg",
+    "bytes": 42517,
+    "status": 200,
+    "sha256": "622dd9c7d1fed5ffab5dbf1d15afbafc6d2d76fea101909e2a7d99399851098f",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/leila-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/leila-avatar.jpg",
+    "bytes": 3597,
+    "status": 200,
+    "sha256": "c95b37be600821be84626f4661efaeef3a23b975ad59e8521e6f6ab8f86636b9",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/hormozi-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/hormozi-thumb.jpg",
+    "bytes": 47933,
+    "status": 200,
+    "sha256": "3a1f2ee9239acd2b97c213dcc8bf9c49ebe8d6d7e52522f2e17b994c3f122b35",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/sung-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/sung-avatar.jpg",
+    "bytes": 3661,
+    "status": 200,
+    "sha256": "0784066c117d730b1e7d38afc5fb26bb24ef86a9b6f5f69f962140df0e709874",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/bloom-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/bloom-avatar.jpg",
+    "bytes": 2647,
+    "status": 200,
+    "sha256": "e5c37b42fc94d807dac8268f6d4baf3302689047afa92cf2c5cd658d9c90bb78",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/filips-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/filips-thumb.jpg",
+    "bytes": 50420,
+    "status": 200,
+    "sha256": "d1902845460a626d672390c9fd7ebc6ac326de2747c6eb0c29a8d836ca9f43d9",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/dango-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/dango-thumb.jpg",
+    "bytes": 35982,
+    "status": 200,
+    "sha256": "7fc8a79b31613d6c0b198dc84ca9204347fc08230ba3760c5991e5e210afbe55",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/filips-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/filips-avatar.jpg",
+    "bytes": 5023,
+    "status": 200,
+    "sha256": "ea784928bfa8dcfa5b5ed6c77e5509274d072633146b858df00df5dbd9f33e57",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/leila-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/leila-thumb.jpg",
+    "bytes": 44499,
+    "status": 200,
+    "sha256": "e117c83952cfc4567441354da63ce8317b97994037c501a3f736c160ac63980f",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/hormozi-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/hormozi-avatar.jpg",
+    "bytes": 4787,
+    "status": 200,
+    "sha256": "49c2a385ee0232ef8c87623a02ba6cd3feb72ce8c893e41961d319b4b760e40d",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/bloom-x-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/bloom-x-avatar.jpg",
+    "bytes": 2465,
+    "status": 200,
+    "sha256": "9e0d100c1223a46671268b82df0a43c470730c4cdd0dc4a412996c9fc1af3dd1",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/sung-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/sung-thumb.jpg",
+    "bytes": 39713,
+    "status": 200,
+    "sha256": "c1a16041afc2eb2f7f36d89bb2285316f3fe775ed1efae7f018a3865b7d45fed",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/dango-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/dango-avatar.jpg",
+    "bytes": 3828,
+    "status": 200,
+    "sha256": "13d1d0ea31c8665bbfb01aa891b21e079403f969d5d354d0511a7af5950c63e9",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/eden-logo-dark-transparent.svg",
+    "path": "08-ydy/public/assets/eden/eden-logo-dark-transparent.svg",
+    "bytes": 1820,
+    "status": 200,
+    "sha256": "19d4372f57de7c283ddcd6db8a4f8cffd00b8d16668de92b16e46a1dce787520",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/dan-koe.jpg",
+    "path": "08-ydy/public/assets/eden/dan-koe.jpg",
+    "bytes": 146923,
+    "status": 200,
+    "sha256": "774152f67a50e772a2376750a43c9f2471d50b99d720938be8ec83d29c1e5920",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/creators/hormozi-x-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/hormozi-x-avatar.jpg",
+    "bytes": 30189,
+    "status": 200,
+    "sha256": "7b1e14c784c8dea83c993d14f340a5f62b2c79fd2820359249a90266feab2f91",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/creators/justinwelsh-avatar.png",
+    "path": "08-ydy/public/assets/eden/justinwelsh-avatar.png",
+    "bytes": 22417,
+    "status": 200,
+    "sha256": "1ff2fdbf904fd6624115320802ba31486b0509ec4bd6236e0e8bc436d5d7a357",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/creators/codiesanchez-avatar.png",
+    "path": "08-ydy/public/assets/eden/codiesanchez-avatar.png",
+    "bytes": 20942,
+    "status": 200,
+    "sha256": "d748bb370ce28af1b94f0e50e2d805dc756de16803a1faf4bd748a6b4f4641c1",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/creators/codie-portapotty.jpg",
+    "path": "08-ydy/public/assets/eden/codie-portapotty.jpg",
+    "bytes": 27180,
+    "status": 200,
+    "sha256": "8f741c3c428c24bfec55101f8037f34ddebb0f61dd94b8d6fac0f8191bd68e29",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/creators/lilla-bjorn-attention.jpg",
+    "path": "08-ydy/public/assets/eden/lilla-bjorn-attention.jpg",
+    "bytes": 224296,
+    "status": 200,
+    "sha256": "f6ed6406748869f1bf52ff813484795db75d4cc5d5e339cbd740e31e49d5c132",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://eden.so/creators/lilla-bjorn-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/lilla-bjorn-avatar.jpg",
+    "bytes": 9326,
+    "status": 200,
+    "sha256": "e6b2a5e66de0a97b4ff848e1324a2bb423aed7d9e9f968d54d468122122796a5",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  },
+  {
+    "url": "https://app.eden.so/assets/geist.woff2",
+    "path": "08-ydy/public/assets/eden/geist.woff2",
+    "status": 200,
+    "bytes": 52536,
+    "sha256": "b11e7a1b2635a937247bd52c041521c49dd7d0ff9d75414705db477eef0f3b68",
+    "acquiredAt": "2026-11-07T20:20:00+08:00",
+    "scope": "public-static-asset",
+    "transformed": false
+  }
+]

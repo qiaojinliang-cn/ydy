@@ -1,0 +1,473 @@
+[
+  {
+    "name": "app",
+    "viewport": "1440x1000",
+    "artifact": "screenshots/app-1440x1000.png",
+    "title": "Eden | The workspace for creatives",
+    "url": "https://app.eden.so/sign-in",
+    "bodyText": "Enter the garden\n\nSign up or sign in to get started.\n\nEmail address\nContinue\nI already have a code\n\nBy signing in, you agree to our Terms and Privacy Policy",
+    "font": "Geist, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyColor": "rgb(39, 37, 35)",
+    "bodyBackground": "rgb(252, 252, 250)",
+    "rootVars": {
+      "--surface-sidebar": "#f5f4f1",
+      "--surface-page": "",
+      "--surface-card": "#fff",
+      "--font-sans": "\"Geist\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "--text-primary": "",
+      "--accent": "",
+      "--border-subtle": ""
+    },
+    "horizontalOverflow": false,
+    "metrics": {
+      "lcp": 11520,
+      "cls": 0
+    },
+    "images": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "app",
+    "viewport": "768x1024",
+    "artifact": "screenshots/app-768x1024.png",
+    "title": "Eden | The workspace for creatives",
+    "url": "https://app.eden.so/sign-in",
+    "bodyText": "Enter the garden\n\nSign up or sign in to get started.\n\nEmail address\nContinue\nI already have a code\n\nBy signing in, you agree to our Terms and Privacy Policy",
+    "font": "Geist, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyColor": "rgb(39, 37, 35)",
+    "bodyBackground": "rgb(252, 252, 250)",
+    "rootVars": {
+      "--surface-sidebar": "#f5f4f1",
+      "--surface-page": "",
+      "--surface-card": "#fff",
+      "--font-sans": "\"Geist\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "--text-primary": "",
+      "--accent": "",
+      "--border-subtle": ""
+    },
+    "horizontalOverflow": false,
+    "metrics": {
+      "lcp": 11328,
+      "cls": 0
+    },
+    "images": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "app",
+    "viewport": "375x812",
+    "artifact": "screenshots/app-375x812.png",
+    "title": "Eden | The workspace for creatives",
+    "url": "https://app.eden.so/",
+    "bodyText": "",
+    "font": "Geist, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyColor": "rgb(39, 37, 35)",
+    "bodyBackground": "rgb(252, 252, 250)",
+    "rootVars": {
+      "--surface-sidebar": "#f5f4f1",
+      "--surface-page": "",
+      "--surface-card": "#fff",
+      "--font-sans": "\"Geist\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "--text-primary": "",
+      "--accent": "",
+      "--border-subtle": ""
+    },
+    "horizontalOverflow": false,
+    "metrics": {
+      "lcp": null,
+      "cls": 0
+    },
+    "images": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "marketing",
+    "viewport": "1440x1000",
+    "artifact": "screenshots/marketing-1440x1000.png",
+    "title": "Eden | Run your entire creator business from one place",
+    "url": "https://eden.so/",
+    "bodyText": "Eden\nFeatures\nTeams\nPricing\nDownload\nHelp\nSign in\nTry risk-free\nFinally, one place to save your best ideas, publish original content, grow your email list, sell digital products, import your highlights.\nFinally, one place to\nsave your best ideas.\n\nSave anything, research millions of posts, schedule everywhere, and run your whole store and email list in one place.\n\nTry risk-free\nResearch\nSell\nSave\nLaunch\nNew\nLibrary\nDiscover\nCustom AI\nPublish\nChats\nPlan this week's content\n1d\nDevelop newsletter idea\n1d\nOutline a YouTube video\n1d\nFind 10 fresh angles\n3d\nRepurpose my latest essay\n3d\nMore\nBoards\nFavorite Ideas\nYouTube Swipe File\nWriting Inspiration\nAudience Research\nBook Notes\nMy Newsletters\nActive Projects\nDan Koe\nintermittent fasting\n6 platforms\n· Last 6 months · 5× · Top 10%\nDiscover\nCreators\nBrands\nLists\nPosts\nAds\nBreakouts\nHidden gems\nViral now\nAll-time greats\nProductivity\nSelf-improvement\nAlex Hormozi\n@alexhormozi\n1y\n\nThe single greatest skill you can develop is the ability to stay in a great mood in the absence of things to be in a great mood about.\n\n101K\n17K\n25×\nTop 1%\nJustin Welsh\n@thejustinwelsh\n1mo\n\nThe people who win with AI are not the ones who generate the most. They're the ones who develop the clearest taste.\n\n1.1K\n39\n7.26×\nCodie Sanchez\n418K\n24×\n\nCodie Sanchez The boring business hiding in plain sight\n\n10:38\nHow I Got My Attention Span Back.\nLilla Björn Stationery\n451K views\n28×\nTop 3%\nDr Joe Dispenza\n144K\n3.0M\n11×\nTop 1%\n\ndrjoedispenza Living in abundance isn’t just about accumulating money. It’s about getting clear on what abundance truly means to you, so you can create more of it in your life.\n\njanelle\n@janelledodo\n\nanxiety is a horrible use of your imagination.\n\nlet’s overthink the best case scenarios. let’s analyse every time you do a good thing. let’s obsess over the times we make someone laughs.\n\nyour brain already has the skill, you just need to use it to create something beautiful....\n\n14K\n2.1K\n184×\nTop 3%\n13:09\nHow to Stop Wasting Your Life (Avoid These 5 Things)\nAli Abdaal\n1.9M views\n75×\nTop 4%\nAll items\n\nEverything in this workspace, searchable in one place.\n\nNew\nSearch notes, PDFs, transcripts, links, and more\nItems\nSources\nAll\nDocuments\nCards\nPDFs\nImages\nSocial\nHighlights\nYouTube\nX\nInstagram\nSubstack\nScript: How to actually grow an audience from scratch\n\nGrowing on social media is easy.\n\nThere, I said it.\n\nI never really had a problem gaining followers, but that could be unconscious competence.\n\nNote: This is a more tactical post. If you get your panties in a bunch when people talk about growing on social media, nobody is holding you hostage and forcing you to read this.\n\nWhen I started on social media, I wasn't starting from scratch. I was starting with nearly a dozen failures under my belt. I failed at digital art, drop shipping, multiple agency businesses (ads, SEO, web design), freelance photography, and more.\n\nAs a teenager, my entire goal was to make some kind of online business work so that I would never have to work a full time 9-5 in my life.\n\nHow to grow an audience · Yesterday\n\n“Your work is the byproduct of the way you see the world.”\n\nDan Koe\nIdeas worth exploring · 2h\n19:18\nHow to Build a Profitable Personal Brand (In Just 30 Days)\n\nMatt Gray\n\n390K views\n769×\nTop 1%\nPersonal branding · Yesterday\n\nBuild a body of work that makes your interests useful to other people.\n\nA note to remember · Yesterday\nPurpose & Profit · Books\n\nA good idea is not a destination. It is a direction worth exploring.\n\nFavorite ideas · 3d\nCreative minds feel the difference within days.\nNO\nNoah Little\nFounder · The Success Squad\nOne week with using this platform, and I've gone viral three times in a week!!! Which happens typically only about once a month.\nAD\nAdam Bair\nFounder · The Awakened Man\nI was struggling to get views and engagement on my posts and suddenly I went from 200 followers to 13k followers on facebook in less than a week.\nHU\nHussain Ibarra\nWriter\nLast month, I wrote a newsletter that went viral and gained 1,200 new subscribers overnight. My newsletter went from 2,600 readers to 20,100.\nAL\nAlyssa Harris\nFounder · The Karuna Lab\nI've gained 1500 followers over the last 2 weeks, after using Eden for my content creation process.\nNI\nNick Neve\nRelationships With A Soul\nI have been able to pump out consistent, quality content monthly and currently, I have over 50 scripts backlogged, ready to shoot. I no longer feel the stress of having to come up with ideas each week and can focus way more on creating and publishing.\nPA\nPatrick\nCreator\nI went from around 8k–20k impressions per thread to ones capable of landing somewhere between 100k and 600k.\nBuilt for the modern creative\nA place for your ideas.\nThe tools to put them out into the world.\nAnd a way to get paid for them.\nMeet Eve\nMeet your thinking partner.\n\nEve reads everything you save, your highlights, X bookmarks, and notes, and finds the threads between them. Most mornings she sends you an idea worth thinking about. When one clicks, she helps you think it through and start writing.\n\nWhat have I read on this?\nIs this idea working?\nWhich titles work?\nWhat shape fits?\nWhat do the books I've read say about getting my focus back?\nYour highlights· focus and attention · 3 books\n\nThree books you've highlighted keep landing on the same idea.\n\nwe can experience pleasure without any investment of psychic energy, whereas enjoyment happens only as a result of unusual investments of attention.\nFlow\nMihaly Csikszentmihalyi\nit is not constant effort that delivers results but a kind of constant, patient, unhurried focus that organizes the investigator’s attention when at work and is present but watchful during periods of ease.\nRest\nAlex Soojung-Kim Pang\nPart of the struggle in learning to write is learning to ignore what isn’t useful to you and pay attention to what is.\nSeveral Short Sentences About Writing\nVerlyn Klinkenborg\n\nThe thread: scrolling is pleasure, and pleasure is free. Focus pays you back, but only after you invest attention first. That's your angle. You didn't lose your focus. You stopped investing it.\n\nWant me to outline a post from these?\n\nMessage Eve\nEve Fast\nStart with Eve\nSee how Eve works\n01 · Find your direction\nFigure out what you're here to say.\n\nAnswer a few questions and Eden builds your content pillars, finds the topics getting views in your space right now, and writes dozens of post ideas for each one. No more blank page.\n\nBuild your strategy\n02 · See what people want\nSee which ideas people are hungry for.\n\nYou scroll for hours and still don't know what to post. Search any topic and see the posts doing 10x their creator's normal on 7 platforms, so every idea starts with proof.\n\nSearch the outliers\nPosts\nCreators\n03 · Collect your ideas\nA home for every idea you find.\n\nGreat posts get lost in your screenshots and bookmarks. Save them from YouTube, Substack, X, Threads, LinkedIn, Instagram, and TikTok in one place. Then ask Eden for hooks and drafts based on what you saved.\n\nSave from anywhere\nGrid view\nFreeform canvas\nCreators who stopped guessing.\nGR\nGrant Theriault\nCreator\nEden has completely transformed my creation process. It has made my viral research and ideation seemless. I've built an audience of over 189,000+ across platforms and feel like I have just scratched the surface of becoming a creator.\nFL\nFlorent Dubois\nWriter\nI'm using 5% of the potential of the app and the value is already there. I signed up mostly to schedule Substack posts. A few days in: this thing combines Notion, Buffer, GPT Plus, Stan Store.\nYO\nYoussef Toufik\nContent Creator · The Weekly 1%\nBefore Eden, I was trapped on social media to research content. Hours scrolling, screenshotting, guessing at patterns. I deleted social media from my phone. Eden replaced the scroll with a search.\nCA\nCamila Better\nMoney Coach · Modern Joy\nI'd grown my mailing list from 0 to 350 people in the past 18 months. It nearly doubled (593 people) since starting using Eden 2 months ago.\nAN\nAndrea Feldman\nFounder ·",
+    "font": "Figtree, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "bodyColor": "rgb(17, 17, 17)",
+    "bodyBackground": "rgb(252, 252, 250)",
+    "rootVars": {
+      "--surface-sidebar": "",
+      "--surface-page": "",
+      "--surface-card": "",
+      "--font-sans": "",
+      "--text-primary": "",
+      "--accent": "",
+      "--border-subtle": ""
+    },
+    "horizontalOverflow": false,
+    "metrics": {
+      "lcp": 2532,
+      "cls": 0.005735930718315973
+    },
+    "images": [
+      {
+        "alt": "Eden",
+        "src": "https://eden.so/eden-logo-dark-transparent.svg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/dan-koe.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/hormozi-x-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/justinwelsh-avatar.png",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/codiesanchez-avatar.png",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/codie-portapotty.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/lilla-bjorn-attention.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/lilla-bjorn-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/joe-dispenza-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/joe-dispenza-abundance.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/janelle-dodo-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/aliabdaal-stop-wasting-life.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "Matt Gray working on a laptop",
+        "src": "https://eden.so/matt-gray-personal-brand.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/matt-gray-personal-brand.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "Purpose & Profit by Dan Koe",
+        "src": "https://eden.so/purpose-and-profit.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      }
+    ],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "marketing",
+    "viewport": "768x1024",
+    "artifact": "screenshots/marketing-768x1024.png",
+    "title": "Eden | Run your entire creator business from one place",
+    "url": "https://eden.so/",
+    "bodyText": "Eden\nTry risk-free\nFinally, one place to save your best ideas, publish original content, grow your email list, sell digital products, import your highlights.\nFinally, one place to\nsave your best ideas.\n\nSave anything, research millions of posts, schedule everywhere, and run your whole store and email list in one place.\n\nTry risk-free\nResearch\nSell\nSave\nLaunch\nintermittent fasting\n6 platforms\n· Last 6 months · 5× · Top 10%\nDiscover\nCreators\nBrands\nLists\nPosts\nAds\nBreakouts\nHidden gems\nViral now\nAll-time greats\nProductivity\nSelf-improvement\nAlex Hormozi\n@alexhormozi\n1y\n\nThe single greatest skill you can develop is the ability to stay in a great mood in the absence of things to be in a great mood about.\n\n101K\n17K\n25×\nTop 1%\nJustin Welsh\n@thejustinwelsh\n1mo\n\nThe people who win with AI are not the ones who generate the most. They're the ones who develop the clearest taste.\n\n1.1K\n39\n7.26×\nCodie Sanchez\n418K\n24×\n\nCodie Sanchez The boring business hiding in plain sight\n\n10:38\nHow I Got My Attention Span Back.\nLilla Björn Stationery\n451K views\n28×\nTop 3%\nDr Joe Dispenza\n144K\n3.0M\n11×\nTop 1%\n\ndrjoedispenza Living in abundance isn’t just about accumulating money. It’s about getting clear on what abundance truly means to you, so you can create more of it in your life.\n\nAll items\n\nEverything in this workspace, searchable in one place.\n\nNew\nSearch notes, PDFs, transcripts, links, and more\nItems\nSources\nAll\nDocuments\nCards\nPDFs\nImages\nSocial\nHighlights\nYouTube\nX\nInstagram\nSubstack\nScript: How to actually grow an audience from scratch\n\nGrowing on social media is easy.\n\nThere, I said it.\n\nI never really had a problem gaining followers, but that could be unconscious competence.\n\nNote: This is a more tactical post. If you get your panties in a bunch when people talk about growing on social media, nobody is holding you hostage and forcing you to read this.\n\nWhen I started on social media, I wasn't starting from scratch. I was starting with nearly a dozen failures under my belt. I failed at digital art, drop shipping, multiple agency businesses (ads, SEO, web design), freelance photography, and more.\n\nAs a teenager, my entire goal was to make some kind of online business work so that I would never have to work a full time 9-5 in my life.\n\nHow to grow an audience · Yesterday\n\n“Your work is the byproduct of the way you see the world.”\n\nDan Koe\nIdeas worth exploring · 2h\n19:18\nHow to Build a Profitable Personal Brand (In Just 30 Days)\n\nMatt Gray\n\n390K views\n769×\nTop 1%\nPersonal branding · Yesterday\n\nBuild a body of work that makes your interests useful to other people.\n\nA note to remember · Yesterday\nCreative minds feel the difference within days.\nNO\nNoah Little\nFounder · The Success Squad\nOne week with using this platform, and I've gone viral three times in a week!!! Which happens typically only about once a month.\nAD\nAdam Bair\nFounder · The Awakened Man\nI was struggling to get views and engagement on my posts and suddenly I went from 200 followers to 13k followers on facebook in less than a week.\nHU\nHussain Ibarra\nWriter\nLast month, I wrote a newsletter that went viral and gained 1,200 new subscribers overnight. My newsletter went from 2,600 readers to 20,100.\nAL\nAlyssa Harris\nFounder · The Karuna Lab\nI've gained 1500 followers over the last 2 weeks, after using Eden for my content creation process.\nNI\nNick Neve\nRelationships With A Soul\nI have been able to pump out consistent, quality content monthly and currently, I have over 50 scripts backlogged, ready to shoot. I no longer feel the stress of having to come up with ideas each week and can focus way more on creating and publishing.\nPA\nPatrick\nCreator\nI went from around 8k–20k impressions per thread to ones capable of landing somewhere between 100k and 600k.\nBuilt for the modern creative\nA place for your ideas.\nThe tools to put them out into the world.\nAnd a way to get paid for them.\nMeet Eve\nMeet your thinking partner.\n\nEve reads everything you save, your highlights, X bookmarks, and notes, and finds the threads between them. Most mornings she sends you an idea worth thinking about. When one clicks, she helps you think it through and start writing.\n\nWhat have I read on this?\nIs this idea working?\nWhich titles work?\nWhat shape fits?\nWhat do the books I've read say about getting my focus back?\nYour highlights· focus and attention · 3 books\n\nThree books you've highlighted keep landing on the same idea.\n\nwe can experience pleasure without any investment of psychic energy, whereas enjoyment happens only as a result of unusual investments of attention.\nFlow\nMihaly Csikszentmihalyi\nit is not constant effort that delivers results but a kind of constant, patient, unhurried focus that organizes the investigator’s attention when at work and is present but watchful during periods of ease.\nRest\nAlex Soojung-Kim Pang\nPart of the struggle in learning to write is learning to ignore what isn’t useful to you and pay attention to what is.\nSeveral Short Sentences About Writing\nVerlyn Klinkenborg\n\nThe thread: scrolling is pleasure, and pleasure is free. Focus pays you back, but only after you invest attention first. That's your angle. You didn't lose your focus. You stopped investing it.\n\nWant me to outline a post from these?\n\nMessage Eve\nEve Fast\nStart with Eve\nSee how Eve works\nFigure out what you're here to say.\n\nAnswer a few questions and Eden builds your content pillars, finds the topics getting views in your space right now, and writes dozens of post ideas for each one. No more blank page.\n\nBuild your strategy\n01 · Find your direction\nSee which ideas people are hungry for.\n\nYou scroll for hours and still don't know what to post. Search any topic and see the posts doing 10x their creator's normal on 7 platforms, so every idea starts with proof.\n\nSearch the outliers\n02 · See what people want\nPosts\nCreators\nA home for every idea you find.\n\nGreat posts get lost in your screenshots and bookmarks. Save them from YouTube, Substack, X, Threads, LinkedIn, Instagram, and TikTok in one place. Then ask Eden for hooks and drafts based on what you saved.\n\nSave from anywhere\n03 · Collect your ideas\nGrid view\nFreeform canvas\nCreators who stopped guessing.\nGR\nGrant Theriault\nCreator\nEden has completely transformed my creation process. It has made my viral research and ideation seemless. I've built an audience of over 189,000+ across platforms and feel like I have just scratched the surface of becoming a creator.\nFL\nFlorent Dubois\nWriter\nI'm using 5% of the potential of the app and the value is already there. I signed up mostly to schedule Substack posts. A few days in: this thing combines Notion, Buffer, GPT Plus, Stan Store.\nYO\nYoussef Toufik\nContent Creator · The Weekly 1%\nBefore Eden, I was trapped on social media to research content. Hours scrolling, screenshotting, guessing at patterns. I deleted social media from my phone. Eden replaced the scroll with a search.\nCA\nCamila Better\nMoney Coach · Modern Joy\nI'd grown my mailing list from 0 to 350 people in the past 18 months. It nearly doubled (593 people) since starting using Eden 2 months ago.\nAN\nAndrea Feldman\nFounder · Reclaiming Aliveness\nWhat surprised me most is that Claude can plug into Eden. In one sitting it read my strategy and my voice, found real breakout posts in my market, and wrote me a weekly strategy memo with receipts, a clear bet for the week, and three post ideas in my own tone.\nMI\nMiles Brio\nWriter\nI had previously posted multiple times a day for 9 months straight and quit due to very little results. I came back after a year and had Eden draft up some ideas for me based on my voice, content strategy, and what's working right now. My first post using Eden got me 5.25x outperformance in less than 24 hours.\nRead all creator reviews\nThink with an AI that's read your library.\n\nStop pasting screenshots into ChatGPT and asking why they worked. Ask Eve. She pulls the real top posts from every platform, adds what you've saved, and hands you hooks and drafts you can post today.\n\nStart",
+    "font": "Figtree, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "bodyColor": "rgb(17, 17, 17)",
+    "bodyBackground": "rgb(252, 252, 250)",
+    "rootVars": {
+      "--surface-sidebar": "",
+      "--surface-page": "",
+      "--surface-card": "",
+      "--font-sans": "",
+      "--text-primary": "",
+      "--accent": "",
+      "--border-subtle": ""
+    },
+    "horizontalOverflow": false,
+    "metrics": {
+      "lcp": 3896,
+      "cls": 0.009580715200475728
+    },
+    "images": [
+      {
+        "alt": "Eden",
+        "src": "https://eden.so/eden-logo-dark-transparent.svg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/dan-koe.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/hormozi-x-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/justinwelsh-avatar.png",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/codiesanchez-avatar.png",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/codie-portapotty.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/lilla-bjorn-attention.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/lilla-bjorn-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/joe-dispenza-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/joe-dispenza-abundance.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/janelle-dodo-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/aliabdaal-stop-wasting-life.jpg",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/aliabdaal-ig-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "Matt Gray working on a laptop",
+        "src": "https://eden.so/matt-gray-personal-brand.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/matt-gray-personal-brand.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "Purpose & Profit by Dan Koe",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      }
+    ],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "marketing",
+    "viewport": "375x812",
+    "artifact": "screenshots/marketing-375x812.png",
+    "title": "Eden | Run your entire creator business from one place",
+    "url": "https://eden.so/",
+    "bodyText": "Eden\nTry risk-free\nFinally, one place to save your best ideas, publish original content, grow your email list, sell digital products, import your highlights.\nFinally, one place to\nsave your best ideas.\n\nSave anything, research millions of posts, schedule everywhere, and run your whole store and email list in one place.\n\nTry risk-free\nResearch\nSell\nSave\nLaunch\nintermittent fasting\n6 platforms\n· Last 6 months · 5× · Top 10%\nDiscover\nCreators\nBrands\nLists\nPosts\nAds\nBreakouts\nHidden gems\nViral now\nAll-time greats\nProductivity\nSelf-improvement\nAlex Hormozi\n@alexhormozi\n1y\n\nThe single greatest skill you can develop is the ability to stay in a great mood in the absence of things to be in a great mood about.\n\n101K\n17K\n25×\nTop 1%\nJustin Welsh\n@thejustinwelsh\n1mo\n\nThe people who win with AI are not the ones who generate the most. They're the ones who develop the clearest taste.\n\n1.1K\n39\n7.26×\nCodie Sanchez\n418K\n24×\n\nCodie Sanchez The boring business hiding in plain sight\n\n10:38\nHow I Got My Attention Span Back.\nLilla Björn Stationery\n451K views\n28×\nTop 3%\nDr Joe Dispenza\n144K\n3.0M\n11×\nTop 1%\n\ndrjoedispenza Living in abundance isn’t just about accumulating money. It’s about getting clear on what abundance truly means to you, so you can create more of it in your life.\n\nAll items\n\nEverything in this workspace, searchable in one place.\n\nNew\nSearch notes, PDFs, transcripts, links, and more\nItems\nSources\nAll\nDocuments\nCards\nPDFs\nImages\nSocial\nHighlights\nYouTube\nX\nInstagram\nSubstack\nScript: How to actually grow an audience from scratch\n\nGrowing on social media is easy.\n\nThere, I said it.\n\nI never really had a problem gaining followers, but that could be unconscious competence.\n\nNote: This is a more tactical post. If you get your panties in a bunch when people talk about growing on social media, nobody is holding you hostage and forcing you to read this.\n\nWhen I started on social media, I wasn't starting from scratch. I was starting with nearly a dozen failures under my belt. I failed at digital art, drop shipping, multiple agency businesses (ads, SEO, web design), freelance photography, and more.\n\nAs a teenager, my entire goal was to make some kind of online business work so that I would never have to work a full time 9-5 in my life.\n\nHow to grow an audience · Yesterday\n\n“Your work is the byproduct of the way you see the world.”\n\nDan Koe\nIdeas worth exploring · 2h\n19:18\nHow to Build a Profitable Personal Brand (In Just 30 Days)\n\nMatt Gray\n\n390K views\n769×\nTop 1%\nPersonal branding · Yesterday\n\nBuild a body of work that makes your interests useful to other people.\n\nA note to remember · Yesterday\nCreative minds feel the difference within days.\nNO\nNoah Little\nFounder · The Success Squad\nOne week with using this platform, and I've gone viral three times in a week!!! Which happens typically only about once a month.\nAD\nAdam Bair\nFounder · The Awakened Man\nI was struggling to get views and engagement on my posts and suddenly I went from 200 followers to 13k followers on facebook in less than a week.\nHU\nHussain Ibarra\nWriter\nLast month, I wrote a newsletter that went viral and gained 1,200 new subscribers overnight. My newsletter went from 2,600 readers to 20,100.\nAL\nAlyssa Harris\nFounder · The Karuna Lab\nI've gained 1500 followers over the last 2 weeks, after using Eden for my content creation process.\nNI\nNick Neve\nRelationships With A Soul\nI have been able to pump out consistent, quality content monthly and currently, I have over 50 scripts backlogged, ready to shoot. I no longer feel the stress of having to come up with ideas each week and can focus way more on creating and publishing.\nPA\nPatrick\nCreator\nI went from around 8k–20k impressions per thread to ones capable of landing somewhere between 100k and 600k.\nBuilt for the modern creative\nA place for your ideas.\nThe tools to put them out into the world.\nAnd a way to get paid for them.\nMeet Eve\nMeet your thinking partner.\n\nEve reads everything you save, your highlights, X bookmarks, and notes, and finds the threads between them. Most mornings she sends you an idea worth thinking about. When one clicks, she helps you think it through and start writing.\n\nWhat have I read on this?\nIs this idea working?\nWhich titles work?\nWhat shape fits?\nWhat do the books I've read say about getting my focus back?\nYour highlights· focus and attention · 3 books\n\nThree books you've highlighted keep landing on the same idea.\n\nwe can experience pleasure without any investment of psychic energy, whereas enjoyment happens only as a result of unusual investments of attention.\nFlow\nMihaly Csikszentmihalyi\nit is not constant effort that delivers results but a kind of constant, patient, unhurried focus that organizes the investigator’s attention when at work and is present but watchful during periods of ease.\nRest\nAlex Soojung-Kim Pang\nPart of the struggle in learning to write is learning to ignore what isn’t useful to you and pay attention to what is.\nSeveral Short Sentences About Writing\nVerlyn Klinkenborg\n\nThe thread: scrolling is pleasure, and pleasure is free. Focus pays you back, but only after you invest attention first. That's your angle. You didn't lose your focus. You stopped investing it.\n\nWant me to outline a post from these?\n\nMessage Eve\nEve Fast\nStart with Eve\nSee how Eve works\nFigure out what you're here to say.\n\nAnswer a few questions and Eden builds your content pillars, finds the topics getting views in your space right now, and writes dozens of post ideas for each one. No more blank page.\n\nBuild your strategy\n01 · Find your direction\nSee which ideas people are hungry for.\n\nYou scroll for hours and still don't know what to post. Search any topic and see the posts doing 10x their creator's normal on 7 platforms, so every idea starts with proof.\n\nSearch the outliers\n02 · See what people want\nPosts\nCreators\nA home for every idea you find.\n\nGreat posts get lost in your screenshots and bookmarks. Save them from YouTube, Substack, X, Threads, LinkedIn, Instagram, and TikTok in one place. Then ask Eden for hooks and drafts based on what you saved.\n\nSave from anywhere\n03 · Collect your ideas\nGrid view\nFreeform canvas\nCreators who stopped guessing.\nGR\nGrant Theriault\nCreator\nEden has completely transformed my creation process. It has made my viral research and ideation seemless. I've built an audience of over 189,000+ across platforms and feel like I have just scratched the surface of becoming a creator.\nFL\nFlorent Dubois\nWriter\nI'm using 5% of the potential of the app and the value is already there. I signed up mostly to schedule Substack posts. A few days in: this thing combines Notion, Buffer, GPT Plus, Stan Store.\nYO\nYoussef Toufik\nContent Creator · The Weekly 1%\nBefore Eden, I was trapped on social media to research content. Hours scrolling, screenshotting, guessing at patterns. I deleted social media from my phone. Eden replaced the scroll with a search.\nCA\nCamila Better\nMoney Coach · Modern Joy\nI'd grown my mailing list from 0 to 350 people in the past 18 months. It nearly doubled (593 people) since starting using Eden 2 months ago.\nAN\nAndrea Feldman\nFounder · Reclaiming Aliveness\nWhat surprised me most is that Claude can plug into Eden. In one sitting it read my strategy and my voice, found real breakout posts in my market, and wrote me a weekly strategy memo with receipts, a clear bet for the week, and three post ideas in my own tone.\nMI\nMiles Brio\nWriter\nI had previously posted multiple times a day for 9 months straight and quit due to very little results. I came back after a year and had Eden draft up some ideas for me based on my voice, content strategy, and what's working right now. My first post using Eden got me 5.25x outperformance in less than 24 hours.\nRead all creator reviews\nThink with an AI that's read your library.\n\nStop pasting screenshots into ChatGPT and asking why they worked. Ask Eve. She pulls the real top posts from every platform, adds what you've saved, and hands you hooks and drafts you can post today.\n\nStart",
+    "font": "Figtree, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif",
+    "bodyColor": "rgb(17, 17, 17)",
+    "bodyBackground": "rgb(252, 252, 250)",
+    "rootVars": {
+      "--surface-sidebar": "",
+      "--surface-page": "",
+      "--surface-card": "",
+      "--font-sans": "",
+      "--text-primary": "",
+      "--accent": "",
+      "--border-subtle": ""
+    },
+    "horizontalOverflow": false,
+    "metrics": {
+      "lcp": 3508,
+      "cls": 0.009579094397866163
+    },
+    "images": [
+      {
+        "alt": "Eden",
+        "src": "https://eden.so/eden-logo-dark-transparent.svg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/dan-koe.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/hormozi-x-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/codie-portapotty.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/lilla-bjorn-attention.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/lilla-bjorn-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/joe-dispenza-abundance.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/creators/janelle-dodo-avatar.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "Matt Gray working on a laptop",
+        "src": "https://eden.so/matt-gray-personal-brand.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "",
+        "src": "https://eden.so/matt-gray-personal-brand.jpg",
+        "loaded": true
+      },
+      {
+        "alt": "Purpose & Profit by Dan Koe",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "src": "",
+        "loaded": false
+      }
+    ],
+    "consoleErrors": [],
+    "failedRequests": []
+  }
+]

@@ -1,0 +1,12 @@
+# YDY implementation contract
+- Isolated React + TypeScript + Vite app; original materials remain unchanged.
+- Purpose: creator workspace matching observed Eden navigation, Library, boards, research, content strategy/planning, publishing and AI surfaces.
+- Reference authority: public app CSS/JavaScript + screenshots cited by source course materials. Workflow HTML files are not original app screenshots.
+- Default view: usable Library, not a marketing page. Geist UI font, light page #fcfcfa, sidebar #f5f4f1, 272px sidebar, small outlined controls; black/gray typography and subtle rounded cards.
+- Target viewports: 1440x900, 768x1024, 390x844.
+- Interactions: search/type filters, list/masonry, create/edit/trash/restore items, board creation and placement, local plans/drafts/AI configuration, model chat with explicit service state, settings/theme, command palette, import/export local data.
+- Persistence: immutable reducer + versioned localStorage, recover from malformed storage without losing original string; server-side AI endpoint returns explicit not-configured state unless enabled.
+- No live social publishing, email, payment or DM execution by this reconstruction. Those surfaces keep local drafts and state; must not imply external delivery.
+- Loading: stable skeleton and pending state; empty: usable creation affordance; error: actionable feedback; partial: local samples clearly marked in Discover; success: toast + saved state; permission: connection UI does not fabricate OAuth.
+- Every visible functional control must perform a local operation, navigate, open an informative dialog or explicitly show unsupported integration state.
+- Verification: type check/build, reducer unit tests >=80%, browser critical interactions, console/network review, screenshots at all targets; no claimed pixel equality without matching original viewport screenshots.

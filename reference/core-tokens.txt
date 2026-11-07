@@ -1,0 +1,230 @@
+
+## sidebar --surface-sidebar @ 188401
+] translate-x-0`)),"data-sidebar-surface":G?`workspace`:void 0,"data-sidebar-vt":G&&!H?`frame`:void 0,style:{backgroundColor:`var(--surface-sidebar)`,...e.isMobileDrawer?{}:{width:Le}},"aria-hidden":e.isCollapsed&&!e.isMobileDrawer&&!yt?!0:void 0,inert:e.isCollapsed&&!e.isMobileDrawer&&!yt?!0:void 0,children:[_()&&!e.isMobileDrawer&&!G?(0,J.jsx)(`div`,{className:`pointer-events-auto absolute left-0 right-0 top-0 z-10 h-[28px]`,"data-tauri-drag-region":!0}):null,e.onRequestClose&&!G?(0,J.jsx)(`div`,{className:F(`flex items-center justify-end gap-2 pb-3 pl-2 pr-3 pt-4`,e.isDarkMode?`text-white`:`text-neutral-900`),children:(0,J.jsx)(`button`,{type:`button`,"aria-label":`Close sidebar`,title:`Close`,onClick:e.onRequestClose,className:F(`flex h-8 w-8 shrink-0 items-center j
+
+## sidebar sidebar:width @ 151874
+,Os=8,ks=16;function As(e){return e===`grid`||e===`freeform`||e===`list`?e:null}var js=272,Ms=292,Ns=248,Ps=280,Fs=480,Is=`canvas:sidebar:width`;function Ls(e=js){if(typeof window>`u`)return e;try{let t=window.localStorage.getItem(Is);if(!t)return e;let n=Number.parseInt(t,10);return Number.isFinite(n)?zs(n):e}catch{return e}}function Rs(e){if(!(typeof window>`u`))try{window.localStorage.setItem(Is,String(Math.round(e)))}catch{}}function zs(e){return e<Ns?Ns:e>Fs?Fs:e}var Bs=`canvas:sidebar:sharedWithMeCollapsed`,Vs=`canvas:sidebar:sharedWithMeCount`,Hs=`canvas:sidebar:workspaceSectionCollapsed`,Us=`canvas:sidebar:pinnedSectionCollapsed`,Ws=`canvas:sidebar:collapsed`,Gs=`canvas:sidebar:mode`,Ks=[{id:`research`,label:`Discover`,icon:it,defaultVisible:!0},{id:`strategy`,l
+
+## main Le= @ 305880
+ll),je=(0,Q.useRef)(null),Me=(0,Q.useRef)(null),Ne=(0,Q.useRef)(null),Pe=(0,Q.useRef)(0),Fe=(0,Q.useRef)(0),Ie=(0,Q.useRef)(null),Le=(0,Q.useRef)(null),Re=(0,Q.useRef)(!1),ze=(0,Q.useRef)(0),Be=(0,Q.useRef)(0),Ve=(0,Q.useRef)(null),He=(0,Q.useRef)(null),Ue=(0,Q.useRef)(null),We=(0,Q.useRef)(new Set),Ge=(0,Q.useRef)(null);if(Ge.current!==t){let e=Ge.current===null;Ge.current=t,e||(N!==null&&P(null),F!==null&&I(null),oe&&se(!1),ee&&te(!1),re!==`connecting`&&R(`connecting`),ie!==null&&ae(null),_e.current=null,Ee.current=null,b.current=Qf(),ve.current=null,be.current=new Map,Te.current=null,j.current=null,we.current=null,Ie.current=null,Le.current=null,je.current=null,Me.current=null,Ne.current=null,Ae.current=null,ke.current=null,Ve.current=null,He.current=null,Ue.current=
+
+## main Le= @ 443049
+(0,Q.useRef)(()=>{}),Me=(0,Q.useRef)(!1),Ne=(0,Q.useRef)(!1),Pe=(0,Q.useRef)(new Set),Fe=(0,Q.useRef)(null),Ie=(0,Q.useRef)(null),Le=(0,Q.useRef)(SR),Re=(0,Q.useRef)(null),ze=(0,Q.useRef)(null),Be=(0,Q.useRef)(null),Ve=(0,Q.useRef)(0),He=(0,Q.useRef)(0),Ue=(0,Q.useRef)(0),We=(0,Q.useRef)(null),Ge=(0,Q.useRef)(!1),Ke=(0,Q.useRef)(t.isReadOnly);Ke.current=t.isReadOnly;let{collabCanvasFileData:qe,collabBoardFileData:Je,hasReceivedRemoteCanvasState:Ye,collabStatus:Xe,collabError:Ze,isSaveReady:Qe,remoteAwarenessStates:U,roomPublicAccess:$e,flushLocalAwareness:et,flushLatestLocalCanvasSnapshot:tt,suppressStoreExportRef:nt,localCollabUpdateRef:W,pendingStoreExportAtRef:rt,sendFolderMoveIntent:it,updateCanvasFileData:at,updateBoardFileData:ot,setSectionColor:st,getDocBoardFile
+
+## main Le= @ 630872
+sentation`,`deleted`]}}}:null,[j,Ae]),{data:Me}=G.useQuery(je),Ne=M.user?.id??null,Pe=(0,Q.useRef)(!1),[Fe,Ie]=(0,Q.useState)(!1),Le=(0,Q.useCallback)(()=>{Pe.current||(Pe.current=!0,setTimeout(()=>Ie(!0),0))},[]),{data:Re}=G.useQuery(Fe&&Ne?{highlightBooks:{$:{where:{"user.id":Ne}}}}:null),ze=(0,Q.useMemo)(()=>{if(!j)return[];let e=Re?.highlightBooks??[];return e.length===0?[]:RT(e,j)},[Re,j]);(0,Q.useEffect)(()=>{k&&k.preloadLocalEngine()},[k]);let{items:Be}=WT(j),Ve=(0,Q.useMemo)(()=>{let e=new Map,t=Be;if(!t)return e;for(let n of t){if(n.type!==`canvas`&&n.type!==`folder`)continue;let t=n.title?.trim();t&&e.set(n.id,t)}return e},[Be]),He=(0,Q.useCallback)(e=>Ve.get(e),[Ve]),Ue=(0,Q.useMemo)(()=>{let e=new Map,t=Be;if(!t)return e;for(let n of t){if(n.type!==`canvas`)
+
+## main Le= @ 770877
+wait Ree({authToken:e,workspaceId:t,noteId:n,file:r,onProgress:i?.onProgress,signal:i?.signal})}catch(e){throw ht(e),e}},[e,w,t]),Le=(0,Q.useCallback)(async(n,r)=>Hee({authToken:e,workspaceId:t,noteId:n,storagePath:r}),[e,t]),Re=(0,Q.useCallback)(async e=>{await Ee({position:e,title:`Untitled`,content:`# `,...T===null?{}:{sectionId:T}})},[T,Ee]),ze=(0,Q.useCallback)((e,t)=>{u.current[e]=t,_(e,t)},[_,u]),Be=(0,Q.useCallback)(()=>{let e=i.current;if(!e||!r.width||!r.height)return;let t=e.getCamera().screenToWorld({x:r.width/2,y:r.height/2}),n=rp(`markdown`);Re({x:t.x-n.width/2,y:t.y-n.height/2}).catch(e=>{console.error(`Failed to create markdown note:`,e)})},[Re,i,r.height,r.width]),Ve=(0,Q.useCallback)((e,t)=>{Re({x:e,y:t}).catch(e=>{console.error(`Failed to create markd
+
+## main Le= @ 1325495
+Q.useRef)(null),je=(0,Q.useRef)(null),Me=(0,Q.useRef)(new Map),Ne=(0,Q.useRef)(new Map),Pe=(0,Q.useRef)(!0),Fe=(0,Q.useRef)(null),Le=(0,Q.useRef)(null),Re=(0,Q.useRef)(null),ze=(0,Q.useRef)(new Map),Be=(0,Q.useMemo)(()=>window.matchMedia?.(`(prefers-reduced-motion: reduce)`).matches??!1,[]);(0,Q.useEffect)(()=>{let e=z.renderIdByItemId;return()=>{ze.current=e}},[z]),(0,Q.useEffect)(()=>{let e=0,t=n=>{Ae.current?.(n),e=window.requestAnimationFrame(t)};return e=window.requestAnimationFrame(t),()=>window.cancelAnimationFrame(e)},[]);let Ve=(0,Q.useMemo)(()=>{let e=[];for(let t of we.keys())e.push({renderId:t,r:Se(t)});return e.sort((e,t)=>e.r-t.r),e},[we,Se]),He=(0,Q.useRef)(new Map);(0,Q.useEffect)(()=>{Pe.current=!0,Ae.current=t=>{let n=a.current;if(!n||o.width===0||o.he
+
+## main Le= @ 1658640
+1&&!e.args.isMainPane&&h!==null,Fe=C&&e.args.totalPanes>1&&!e.args.isMainPane&&h!==null,Ie=C&&!!m.runDocumentCheck&&!m.isReadOnly,Le=WX(C&&v?v.referencesItemId??v.id:null,m.workspaceId),Re=C&&!!m.runProofread&&m.accessMode!==`public`&&m.accessMode!==`shared`&&!m.isReadOnly&&Le.globalEnabled,ze=m.accessMode===`public`,Be=!ze||!!m.publicCommentsEnabled,Ve=A||b===`link`,He=v&&!ze&&!jh()&&e.args.isMainPane&&!!m.onNavigateBack&&!!m.backLabel,Ue=He?(0,$.jsxs)(`button`,{type:`button`,"data-pane-topbar-interactive":!0,onClick:e=>{e.stopPropagation(),m.onNavigateBack?.()},"aria-label":`Back to ${m.backLabel}`,title:`Back to ${m.backLabel}`,className:X(`pointer-events-auto flex h-9 min-w-0 max-w-[40vw] items-center gap-1 overflow-hidden rounded-control border py-0 pl-2 pr-3 trans
+
+## main Le= @ 1789485
+(ke?ke.curveStyle??(ke.isConnection?`curved`:`straight`):`straight`)===`curved`?`curved`:`straight`,Fe=Ae!==null,Ie=Me?.style??{},Le=Ae?.style??{},Re=Me?Ie.stroke??{}:Ae?Le:Oe?te?.stroke??{}:ee??{},ze=Me?Ie:Oe?te??{}:null,Be=String(ze?.fill??j8),Ve=Number(ze?.fillOpacity??+!!W8(Be)),He=ze&&Ve>0&&W8(Be)?Be:j8,Ue=U8(Re.color??`#1a1a1a`),We=Me?Gge(He):null,Ge=We&&Wge(Ue)&&Ie.stroke?.colorExplicit!==!0?U8(We):Ue,Ke=Number(Re.width??Fge),qe=Re.dash??`solid`,Je=wS,Ye=Je.find(e=>V8(e,Ge))??Je[0],Xe=K8(He),Ze=e=>{let t=e.color===void 0?e:{...e,colorExplicit:!0};Me?(f(Me.id,{style:{...Ie,stroke:{...Ie.stroke,...t}}}),I?.({stroke:t})):Ae?(f(Ae.id,{style:{...Re,...e}}),F?.(e)):Oe?I?.({stroke:t}):F?.(e)},Qe=e=>{let t=!W8(e),n=t?j8:e,r=+!t;Me&&f(Me.id,{style:{...Ie,fill:n,fillOpacit
+
+## main Le= @ 1947245
+oke?{...t.stroke,...e.stroke}:t.stroke}),we()},[we,V]),Fe=(0,Q.useCallback)(e=>{V.getState().setCurrentTextStyle(e),we()},[we,V]),Le=(0,Q.useCallback)((e,t,n,r)=>{Me&&PN(`react.${e}.${t}`,n)},[Me]),Re=G.useAuth(),[ze,Be]=(0,Q.useState)(!1),[Ve,He]=(0,Q.useState)(``),[Ue,We]=(0,Q.useState)(0),[Ge,Ke]=(0,Q.useState)(!1),qe=(0,Q.useRef)(!1),Je=(0,Q.useRef)(0),[Ye,Xe]=(0,Q.useState)(null),[Ze,Qe]=(0,Q.useState)(`Library`),[U,$e]=(0,Q.useState)(void 0),[et,tt]=(0,Q.useState)(null),nt=(0,Q.useRef)(()=>void 0),W=lw(),[rt,it]=(0,Q.useState)(0),at=Re.user?.refresh_token??null,ot=(0,Q.useRef)(at);ot.current=at;let st=(0,Q.useMemo)(()=>qn({baseUrl:`https://social.eden.so`,llmServerBaseUrl:`https://ai.eden.so`,getAuthToken:()=>ot.current}),[]),ct=(0,Q.useMemo)(()=>({get:async e=>{t
+
+## main Le= @ 2295973
+m`:r.field,direction:r.direction}),[r.field,r.direction]),Ie=(0,Q.useCallback)(e=>{i({field:e.field,direction:e.direction})},[i]),Le=si(rh,e=>e.autoOpenDocuments),Re=si(rh,e=>e.setAutoOpenDocuments),ze=si(rh,e=>e.showBoardGrid),Be=si(rh,e=>e.setShowBoardGrid),Ve=si(rh,e=>e.snapToGrid),He=si(rh,e=>e.setSnapToGrid),[Ue,We]=(0,Q.useState)(null),Ge=(0,Q.useCallback)(()=>{ee(!1),We({requestId:`save-as-template-${Date.now()}-${Math.random().toString(36).slice(2,8)}`,boardId:e.spaceId})},[e.spaceId]),Ke=(0,Q.useCallback)(e=>{V({roomId:`note:${e}`,kind:`note`,title:n[e]?.name??`Document`})},[n]),qe=e.isTopLayer&&!ce,Je=e.accessMode!==`member`,Ye=F&&w!==null,Xe=I&&!Je?dA({workspaceId:e.workspaceId,itemId:e.spaceId}):null,Ze=(0,$.jsxs)($.Fragment,{children:[w===`freeform`?null:(0
+
+## main Geist @ 258374
+ursorVisible&&!e.useNativeCanvasCursor&&e.shouldUseCustomLocalCanvasCursor&&!e.sortViewActive&&!e.isNativeFileDialogOpen}var FM=`'Geist', ui-sans-serif, system-ui, sans-serif`,IM=`'Geist', ui-sans-serif, system-ui, sans-serif`,LM=`var(--font-sans)`,RM=`var(--font-sans)`,zM=`600`;function BM(){let{autoCloseBrackets:e}=nh();return(0,Q.useMemo)(()=>({autoCloseBrackets:e,headingFontFamily:FM,bodyFontFamily:IM,headingFontCssVar:LM,bodyFontCssVar:RM,headingFontWeight:zM}),[e])}var VM=1e4,HM=1500,UM=500,WM=5;function GM(e){return e.includes(`not found`)||e.includes(`missing linked file`)}async function KM(e,t,n,r){let i=r?.timeoutMs??VM,a=r?.maxRetries??WM;for(let o=0;o<=a;o++)try{await qM(e,t,n,i,r?.workspaceId,r?.releaseDelayMs);return}catch(e){let t=e instanceof Error?e.mes
+
+## main Geist @ 258425
+CustomLocalCanvasCursor&&!e.sortViewActive&&!e.isNativeFileDialogOpen}var FM=`'Geist', ui-sans-serif, system-ui, sans-serif`,IM=`'Geist', ui-sans-serif, system-ui, sans-serif`,LM=`var(--font-sans)`,RM=`var(--font-sans)`,zM=`600`;function BM(){let{autoCloseBrackets:e}=nh();return(0,Q.useMemo)(()=>({autoCloseBrackets:e,headingFontFamily:FM,bodyFontFamily:IM,headingFontCssVar:LM,bodyFontCssVar:RM,headingFontWeight:zM}),[e])}var VM=1e4,HM=1500,UM=500,WM=5;function GM(e){return e.includes(`not found`)||e.includes(`missing linked file`)}async function KM(e,t,n,r){let i=r?.timeoutMs??VM,a=r?.maxRetries??WM;for(let o=0;o<=a;o++)try{await qM(e,t,n,i,r?.workspaceId,r?.releaseDelayMs);return}catch(e){let t=e instanceof Error?e.message:String(e);if(o<a&&GM(t)){await new Promise(e=>
+
+## main Geist @ 704353
+linkMissing:e.mentionAdapters?.isMarkdownBacklinkMissing,bodyFontSize:16,bodyLineHeight:1.55,paragraphMarginPx:4,bodyFontFamily:`'Geist', ui-sans-serif, system-ui, sans-serif`,bodyFontCssVar:`var(--font-sans)`,headingFontFamily:`'Geist', ui-sans-serif, system-ui, sans-serif`,headingFontCssVar:`var(--font-sans)`,headingFontWeight:`600`,headingSizesPx:{1:24,2:21,3:19,4:18,5:17,6:16},hostAdapters:{theme:{mode:e.isDarkMode?`dark`:`light`,tokens:{colorBg:`transparent`,colorBgPrimary:`transparent`,colorBgSecondary:`transparent`,background:`transparent`,backgroundMain:`transparent`,colorText:e.isDarkMode?`rgba(255,255,255,0.92)`:`rgba(0,0,0,0.88)`,colorTextTertiary:e.isDarkMode?`rgba(255,255,255,0.28)`:`rgba(0,0,0,0.34)`}}},style:{minHeight:238,padding:`18px 20px`,background:`
+
+## main Geist @ 704453
+phMarginPx:4,bodyFontFamily:`'Geist', ui-sans-serif, system-ui, sans-serif`,bodyFontCssVar:`var(--font-sans)`,headingFontFamily:`'Geist', ui-sans-serif, system-ui, sans-serif`,headingFontCssVar:`var(--font-sans)`,headingFontWeight:`600`,headingSizesPx:{1:24,2:21,3:19,4:18,5:17,6:16},hostAdapters:{theme:{mode:e.isDarkMode?`dark`:`light`,tokens:{colorBg:`transparent`,colorBgPrimary:`transparent`,colorBgSecondary:`transparent`,background:`transparent`,backgroundMain:`transparent`,colorText:e.isDarkMode?`rgba(255,255,255,0.92)`:`rgba(0,0,0,0.88)`,colorTextTertiary:e.isDarkMode?`rgba(255,255,255,0.28)`:`rgba(0,0,0,0.34)`}}},style:{minHeight:238,padding:`18px 20px`,background:`transparent`}},e.editorResetKey)]}),(0,$.jsxs)(`div`,{className:`mt-2 flex items-center justify-betw
+
+## main Geist @ 1338191
+fbfbf9`,s.fillRect(0,0,r,i);let l=c?`#f5f5f5`:`#1c1c1c`,u=c?`rgba(255,255,255,0.5)`:`rgba(0,0,0,0.45)`,d=c?`#a9d4b8`:`#66b08b`,f=`Geist, -apple-system, system-ui, sans-serif`,p=[`M10.2814 23.0063C21.0186 22.9658 27.5312 21.8062 31.537 10.8479C31.6795 10.4581 31.4059 10.0395 30.9919 10.0095C24.8867 9.56596 20.0835 9.10443 16.2931 10.7775C12.4312 12.4821 9.82233 16.2786 9.65414 22.3745C9.64451 22.7237 9.93197 23.0076 10.2814 23.0063Z`,`M10.2816 26.7301C21.0188 26.7706 27.5314 27.9301 31.5372 38.8884C31.6797 39.2782 31.4061 39.6968 30.9922 39.7269C24.887 40.1704 20.0837 40.6319 16.2933 38.9589C12.4314 37.2543 9.82257 33.4578 9.65439 27.3619C9.64475 27.0126 9.93222 26.7288 10.2816 26.7301Z`,`M33.1505 17.7855C33.3837 17.3131 34.056 17.3097 34.294 17.7797L35.8681 20.8884C36.3
+
+## main Geist @ 1780746
+ver:bg-black/[0.05] hover:text-neutral-900 dark:text-white/60 dark:hover:bg-white/[0.08] dark:hover:text-white`,Fge=3,Ige=48,A8=`'Geist', sans-serif`,j8=`transparent`,Lge={shapes:`rectangle`,lines:`arrow`},Rge=[{label:`Extra Small`,value:20},{label:`Small`,value:32},{label:`Medium`,value:48},{label:`Large`,value:72},{label:`Extra Large`,value:96}],M8=8,N8=400,P8=4;function F8(e){return Math.min(N8,Math.max(M8,Math.round(e)))}function zge(e){let t=F8(e.value),[n,r]=(0,Q.useState)(String(t)),i=(0,Q.useRef)(t);i.current!==t&&(i.current=t,r(String(t)));let a=()=>{let i=Number.parseFloat(n);if(!Number.isFinite(i)){r(String(t));return}let a=F8(i);r(String(a)),a!==t&&e.onApply(a)},o=`flex h-9 w-9 shrink-0 cursor-pointer items-center justify-center rounded-md text-[16px] font-m
+
+## main Geist @ 1782993
+rsive`},{id:`serif`,label:`Serif`,compactLabel:`Serif`,value:`'Lora', serif`},{id:`mono`,label:`Mono`,compactLabel:`Mono`,value:`'Geist Mono', monospace`}];function Bge(e){let t=String(e??A8).toLowerCase().replace(`caveat`,`virgil`),n,r=-1;for(let e of I8){let i=e.value.match(/'([^']+)'/)?.[1]?.toLowerCase(),a=i?t.includes(i):t===e.value.toLowerCase(),o=i?.length??0;a&&o>r&&(n=e,r=o)}return n??I8[0]}var L8=[{label:`Small`,value:`small`},{label:`Medium`,value:`medium`},{label:`Large`,value:`large`},{label:`XL`,value:`xl`},{label:`XXL`,value:`xxl`},{label:`XXXL`,value:`xxxl`}];function R8(e){return e.split(`-`).map(e=>e.slice(0,1).toUpperCase()+e.slice(1)).join(` `)}var z8=[...wS,{id:`light`,label:`Light`,value:`#f8fafc`,light:`#f8fafc`,dark:`#f8fafc`}];function Vge(e){le
+
+## main sidebarWidth @ 1058614
+diaX:a,mediaY:Math.max(o,24),mediaW:r.mediaWidth,mediaH:Math.min(r.mediaHeight,t.height-48),sidebarX:a+r.mediaWidth+40,sidebarW:r.sidebarWidth,sidebarH:Math.min(r.mediaHeight,t.height-48),hasRoom:i}}function OZ(e,t){let n=Math.max(e,.1),r=t.width<768?24:72,i=t.height<700?24:48,a=Math.max(1,t.width-r*2),o=Math.max(1,t.height-i*2),s=a,c=Math.round(s/n);return c>o&&(c=o,s=Math.round(c*n)),{mediaX:(t.width-s)/2,mediaY:(t.height-c)/2,mediaW:s,mediaH:c}}function kZ(e,t){let n=t?.thumbnailWidth,r=t?.thumbnailHeight;return typeof n==`number`&&typeof r==`number`&&n>0&&r>0?n/r:e.size.width/Math.max(e.size.height,1)}function AZ(e,t,n){if(t.width<700)return DZ(e,t,n);let r=DZ(e,{width:Math.max(320,t.width-uZ),height:t.height},n);return{...r,mediaX:r.mediaX+uZ,sidebarX:r.sidebarX+uZ
+
+## html Geist @ 1348
+    content="width=device-width, initial-scale=1.0, viewport-fit=cover, interactive-widget=resizes-content"
+    />
+    <!--
+      Geist is the UI font on every screen, so it earns a preload. Lora is
+      deliberately NOT preloaded — it only renders on the sign-in header and
+      opt-in canvas text styles, and `font-display: swap` covers the swap.
+      WOFF2 (not TTF): same glyphs, ~55% smaller on the wire.
+    -->
+    <link rel="preload" href="/assets/geist.woff2" as="font" type="font/woff2" crossorigin />
+    <!--
+      Pre-open TCP+TLS to the origins the app talks to on boot, so the first
+      real request (auth, Instant socket, thumbnails, analytics) skips the
+      DNS+handshake round trips (~100-300ms each on cold loads). Prod
+      hostnames are safe to hardco
+
+## html font-family @ 70202
+center;justify-content:center;padding:24px;background:" +
+            bg +
+            ";color:" +
+            fg +
+            ";font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;z-index:2147483647;";
+          var card = document.createElement("div");
+          card.style.cssText = "max-width:440px;text-align:center;";
+          var title = document.createElement("div");
+          title.style.cssText = "font-size:20px;font-weight:600;margin-bottom:12px;";
+          title.appendChild(document.createTextNode("Eden can't run here yet"));
+          var body = document.createElement("div");
+          body.style.cssText =
+            "font-size:14px;line-height:1.6;color:" + dim + ";margin-bottom:20px;";
+          body.appendChild(document.createTextNode(de
+
+## html sidebarWidth @ 8487
+          !sidebarCollapsed &&
+              isDesktopViewport &&
+              !isPopoutWindow
+            ) {
+              var sidebarWidth = parseInt(
+                window.localStorage.getItem("canvas:sidebar:width") || "",
+                10,
+              );
+              if (!isFinite(sidebarWidth)) sidebarWidth = 260;
+              sidebarWidth = Math.max(248, Math.min(480, sidebarWidth));
+              root.style.setProperty("--eden-boot-sidebar-width", sidebarWidth + "px");
+              root.dataset.bootShell = "1";
+            }
+          } catch (_shellError) {}
+        } catch (_error) {}
+      })();
+    </script>
+    <!--
+      FirstPromoter affiliate-tracking. Mirrors the snippet inlined by
+      the landing site's gatsby-ssr.tsx so a visitor who lands
+
+## html sidebarWidth @ 8652
+      window.localStorage.getItem("canvas:sidebar:width") || "",
+                10,
+              );
+              if (!isFinite(sidebarWidth)) sidebarWidth = 260;
+              sidebarWidth = Math.max(248, Math.min(480, sidebarWidth));
+              root.style.setProperty("--eden-boot-sidebar-width", sidebarWidth + "px");
+              root.dataset.bootShell = "1";
+            }
+          } catch (_shellError) {}
+        } catch (_error) {}
+      })();
+    </script>
+    <!--
+      FirstPromoter affiliate-tracking. Mirrors the snippet inlined by
+      the landing site's gatsby-ssr.tsx so a visitor who lands directly
+      on app.eden.so via an affiliate link (or who arrives via the
+      eden.so → app.eden.so handoff) still gets the `.eden.so`-scoped
+      attribution 
+
+## html sidebarWidth @ 8667
+calStorage.getItem("canvas:sidebar:width") || "",
+                10,
+              );
+              if (!isFinite(sidebarWidth)) sidebarWidth = 260;
+              sidebarWidth = Math.max(248, Math.min(480, sidebarWidth));
+              root.style.setProperty("--eden-boot-sidebar-width", sidebarWidth + "px");
+              root.dataset.bootShell = "1";
+            }
+          } catch (_shellError) {}
+        } catch (_error) {}
+      })();
+    </script>
+    <!--
+      FirstPromoter affiliate-tracking. Mirrors the snippet inlined by
+      the landing site's gatsby-ssr.tsx so a visitor who lands directly
+      on app.eden.so via an affiliate link (or who arrives via the
+      eden.so → app.eden.so handoff) still gets the `.eden.so`-scoped
+      attribution cookie set. `wi
+
+## html sidebarWidth @ 8701
+:width") || "",
+                10,
+              );
+              if (!isFinite(sidebarWidth)) sidebarWidth = 260;
+              sidebarWidth = Math.max(248, Math.min(480, sidebarWidth));
+              root.style.setProperty("--eden-boot-sidebar-width", sidebarWidth + "px");
+              root.dataset.bootShell = "1";
+            }
+          } catch (_shellError) {}
+        } catch (_error) {}
+      })();
+    </script>
+    <!--
+      FirstPromoter affiliate-tracking. Mirrors the snippet inlined by
+      the landing site's gatsby-ssr.tsx so a visitor who lands directly
+      on app.eden.so via an affiliate link (or who arrives via the
+      eden.so → app.eden.so handoff) still gets the `.eden.so`-scoped
+      attribution cookie set. `window.fpr` is also queued before
+  
+
+## html sidebarWidth @ 8744
+       );
+              if (!isFinite(sidebarWidth)) sidebarWidth = 260;
+              sidebarWidth = Math.max(248, Math.min(480, sidebarWidth));
+              root.style.setProperty("--eden-boot-sidebar-width", sidebarWidth + "px");
+              root.dataset.bootShell = "1";
+            }
+          } catch (_shellError) {}
+        } catch (_error) {}
+      })();
+    </script>
+    <!--
+      FirstPromoter affiliate-tracking. Mirrors the snippet inlined by
+      the landing site's gatsby-ssr.tsx so a visitor who lands directly
+      on app.eden.so via an affiliate link (or who arrives via the
+      eden.so → app.eden.so handoff) still gets the `.eden.so`-scoped
+      attribution cookie set. `window.fpr` is also queued before
+      fpr.js loads, so the post-signup `fpr("
+
+## html sidebarWidth @ 8826
+     sidebarWidth = Math.max(248, Math.min(480, sidebarWidth));
+              root.style.setProperty("--eden-boot-sidebar-width", sidebarWidth + "px");
+              root.dataset.bootShell = "1";
+            }
+          } catch (_shellError) {}
+        } catch (_error) {}
+      })();
+    </script>
+    <!--
+      FirstPromoter affiliate-tracking. Mirrors the snippet inlined by
+      the landing site's gatsby-ssr.tsx so a visitor who lands directly
+      on app.eden.so via an affiliate link (or who arrives via the
+      eden.so → app.eden.so handoff) still gets the `.eden.so`-scoped
+      attribution cookie set. `window.fpr` is also queued before
+      fpr.js loads, so the post-signup `fpr("referral", { email, uid })`
+      call fired from `useAuth.handleSuccessfulAuth` a
+
+## html sidebar:width @ 8564
+   !isPopoutWindow
+            ) {
+              var sidebarWidth = parseInt(
+                window.localStorage.getItem("canvas:sidebar:width") || "",
+                10,
+              );
+              if (!isFinite(sidebarWidth)) sidebarWidth = 260;
+              sidebarWidth = Math.max(248, Math.min(480, sidebarWidth));
+              root.style.setProperty("--eden-boot-sidebar-width", sidebarWidth + "px");
+              root.dataset.bootShell = "1";
+            }
+          } catch (_shellError) {}
+        } catch (_error) {}
+      })();
+    </script>
+    <!--
+      FirstPromoter affiliate-tracking. Mirrors the snippet inlined by
+      the landing site's gatsby-ssr.tsx so a visitor who lands directly
+      on app.eden.so via an affiliate link (or who arrives via the

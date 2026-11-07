@@ -1,0 +1,251 @@
+{
+  "generatedAt": "2026-11-07T12:45:49.629Z",
+  "checked": 48,
+  "failed": 0,
+  "results": [
+    {
+      "name": "library renders its title",
+      "ok": true,
+      "detail": "All items"
+    },
+    {
+      "name": "library shows seeded cards",
+      "ok": true,
+      "detail": "12"
+    },
+    {
+      "name": "sidebar measures 272px at 1440",
+      "ok": true,
+      "detail": "272"
+    },
+    {
+      "name": "light page surface is #fcfcfa",
+      "ok": true,
+      "detail": "rgb(252, 252, 250)"
+    },
+    {
+      "name": "no horizontal overflow at 1440",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "search narrows the grid",
+      "ok": true,
+      "detail": "2 of 12"
+    },
+    {
+      "name": "index view renders its topics panel",
+      "ok": true,
+      "detail": "TOPICS"
+    },
+    {
+      "name": "Discover page renders",
+      "ok": true,
+      "detail": "Discover"
+    },
+    {
+      "name": "Discover has no horizontal overflow",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "Strategy page renders",
+      "ok": true,
+      "detail": "The Focused Operator"
+    },
+    {
+      "name": "Strategy has no horizontal overflow",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "Planner page renders",
+      "ok": true,
+      "detail": "Planner"
+    },
+    {
+      "name": "Planner has no horizontal overflow",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "Publish page renders",
+      "ok": true,
+      "detail": "Publish"
+    },
+    {
+      "name": "Publish has no horizontal overflow",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "Chat page renders",
+      "ok": true,
+      "detail": "Chat"
+    },
+    {
+      "name": "Chat has no horizontal overflow",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "Custom AI page renders",
+      "ok": true,
+      "detail": "Custom AI"
+    },
+    {
+      "name": "Custom AI has no horizontal overflow",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "Analytics page renders",
+      "ok": true,
+      "detail": "Analytics"
+    },
+    {
+      "name": "Analytics has no horizontal overflow",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "Your store page renders",
+      "ok": true,
+      "detail": "Your store"
+    },
+    {
+      "name": "Your store has no horizontal overflow",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "Settings page renders",
+      "ok": true,
+      "detail": "Settings"
+    },
+    {
+      "name": "Settings has no horizontal overflow",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "Boards page renders",
+      "ok": true,
+      "detail": "Your boards"
+    },
+    {
+      "name": "Boards has no horizontal overflow",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "Trash page renders",
+      "ok": true,
+      "detail": "Trash"
+    },
+    {
+      "name": "Trash has no horizontal overflow",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "N opens the capture composer",
+      "ok": true,
+      "detail": "1"
+    },
+    {
+      "name": "⌘K opens the command palette",
+      "ok": true,
+      "detail": "1"
+    },
+    {
+      "name": "dark theme applies",
+      "ok": true,
+      "detail": "dark"
+    },
+    {
+      "name": "pane opens the chosen card",
+      "ok": true,
+      "detail": "The best advice I ever got about building a business vs The best advice I ever got about building a business"
+    },
+    {
+      "name": "pane occupies its own column",
+      "ok": true,
+      "detail": "360"
+    },
+    {
+      "name": "pane closes again",
+      "ok": true,
+      "detail": "0 pane(s) left"
+    },
+    {
+      "name": "reload keeps the workspace",
+      "ok": true,
+      "detail": "All items"
+    },
+    {
+      "name": "no horizontal overflow at 768",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "tablet viewport keeps the grid",
+      "ok": true,
+      "detail": "12"
+    },
+    {
+      "name": "no horizontal overflow at 390",
+      "ok": true,
+      "detail": "0px"
+    },
+    {
+      "name": "mobile viewport keeps the grid",
+      "ok": true,
+      "detail": "12"
+    },
+    {
+      "name": "mobile menu button is visible",
+      "ok": true,
+      "detail": "1"
+    },
+    {
+      "name": "mobile navigation slides into view",
+      "ok": true,
+      "detail": "left 0px"
+    },
+    {
+      "name": "mobile navigation reaches Discover",
+      "ok": true,
+      "detail": "1 nav(s)"
+    },
+    {
+      "name": "no console errors",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no uncaught page errors",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no failed network requests",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "health endpoint answers",
+      "ok": true,
+      "detail": "200"
+    },
+    {
+      "name": "chat reports an honest unconfigured state",
+      "ok": true,
+      "detail": "503 {\"ok\":false,\"message\":\"Chat is not configured. Set OPENAI_API_KEY on the server to enable it.\"}"
+    }
+  ],
+  "failures": [],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": []
+}

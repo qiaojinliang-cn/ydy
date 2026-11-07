@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://app.eden.so/assets/contentPlanner-CgO8eSwJ.js",
+    "path": "08-ydy/reference/app/contentPlanner-CgO8eSwJ.js",
+    "bytes": 11647,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/notebook-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/notebook-thumb.jpg",
+    "bytes": 37025,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/bloom-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/bloom-thumb.jpg",
+    "bytes": 42517,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/leila-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/leila-avatar.jpg",
+    "bytes": 3597,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/hormozi-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/hormozi-thumb.jpg",
+    "bytes": 47933,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/sung-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/sung-avatar.jpg",
+    "bytes": 3661,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/bloom-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/bloom-avatar.jpg",
+    "bytes": 2647,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/filips-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/filips-thumb.jpg",
+    "bytes": 50420,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/dango-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/dango-thumb.jpg",
+    "bytes": 35982,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/filips-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/filips-avatar.jpg",
+    "bytes": 5023,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/leila-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/leila-thumb.jpg",
+    "bytes": 44499,
+    "status": 200
+  },
+  {
+    "url": "https://app.eden.so/assets/allItemsMasonry-CgxWzg4e.js",
+    "path": "08-ydy/reference/app/allItemsMasonry-CgxWzg4e.js",
+    "bytes": 1367,
+    "status": 200
+  },
+  {
+    "url": "https://app.eden.so/assets/routing-B-jdHBH3.js",
+    "path": "08-ydy/reference/app/routing-B-jdHBH3.js",
+    "bytes": 3769,
+    "status": 200
+  },
+  {
+    "url": "https://app.eden.so/assets/SocialContentPane-C-ZhuVZY.js",
+    "path": "08-ydy/reference/app/SocialContentPane-C-ZhuVZY.js",
+    "bytes": 15382,
+    "status": 200
+  },
+  {
+    "url": "https://app.eden.so/assets/BoardsHomePane-C6F3QDhf.js",
+    "path": "08-ydy/reference/app/BoardsHomePane-C6F3QDhf.js",
+    "bytes": 21637,
+    "status": 200
+  },
+  {
+    "url": "https://app.eden.so/assets/src-DGZ5GdlC.css",
+    "path": "08-ydy/reference/app/src-DGZ5GdlC.css",
+    "bytes": 167516,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/hormozi-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/hormozi-avatar.jpg",
+    "bytes": 4787,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/bloom-x-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/bloom-x-avatar.jpg",
+    "bytes": 2465,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/sung-thumb.jpg",
+    "path": "08-ydy/public/assets/eden/sung-thumb.jpg",
+    "bytes": 39713,
+    "status": 200
+  },
+  {
+    "url": "https://eden.so/features/boards/cards/dango-avatar.jpg",
+    "path": "08-ydy/public/assets/eden/dango-avatar.jpg",
+    "bytes": 3828,
+    "status": 200
+  }
+]

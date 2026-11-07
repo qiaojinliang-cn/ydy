@@ -1,0 +1,1 @@
+function vl(e){let{isAppleDevice:t}=T(),[n,r]=(0,q.useState)(!1);(0,q.useEffect)(()=>{if(!n)return;if(e.active){r(!1);return}let t=window.setTimeout(()=>r(!1),2e3);return()=>window.clearTimeout(t)},[n,e.active]);let i=e.active||n,a=(0,q.useRef)(!1),o=e.onHoverPrefetch;
