@@ -118,6 +118,17 @@ node tests/browser.mjs   # 48/48：三视口渲染、12 个页面、搜索、索
 | `research/visual-reference.md` | 公开前端 token、侧栏、断点、路由、素材与观测边界 |
 | `research/implementation-contract.md` | YDY 的验收契约：隔离目录、视口、交互、内容状态、验证口径 |
 
+## 一起开发（Fork → PR → 一键合并）
+
+仓库是公开的，所以不需要被加为协作者也能参与：
+
+1. 在 https://github.com/qjl1025/ydy 点 **Fork**，得到你自己账号下的副本
+2. `git clone` 你的 fork，开一个分支改（`git switch -c feat/your-change`）
+3. 推到你自己的 fork，然后在原仓库点 **Compare & pull request**
+4. 维护者在 PR 页面点 **Merge pull request** 即可合入 `main`——一次确认，代码即生效
+
+直接推送权限（不走 PR）需要协作者身份，由维护者按需授予。
+
 ## 事实与边界
 
 - **没有对 Eden 做任何写入**：巡检全部只读，没有发布、发消息、购买、删除，也没有创建 Eden 聊天。
