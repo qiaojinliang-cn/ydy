@@ -63,7 +63,13 @@ Eden 里属于账号/付费能力的东西（社交账号连接、广告库、Au
 
 ## 验证
 
-一次跑完：
+改完代码后一条命令跑完全部关卡：
+
+```bash
+npm run verify
+```
+
+它依次执行下表的四项，任何一项失败都会以非零码退出：
 
 ```bash
 npm run build            # tsc --noEmit + vite build —— 通过
@@ -118,16 +124,25 @@ node tests/browser.mjs   # 48/48：三视口渲染、12 个页面、搜索、索
 | `research/visual-reference.md` | 公开前端 token、侧栏、断点、路由、素材与观测边界 |
 | `research/implementation-contract.md` | YDY 的验收契约：隔离目录、视口、交互、内容状态、验证口径 |
 
-## 一起开发（Fork → PR → 一键合并）
+## 一起开发
 
-仓库是公开的，所以不需要被加为协作者也能参与：
+仓库同时放在两个平台，内容一致：
 
-1. 在 https://github.com/qjl1025/ydy 点 **Fork**，得到你自己账号下的副本
-2. `git clone` 你的 fork，开一个分支改（`git switch -c feat/your-change`）
-3. 推到你自己的 fork，然后在原仓库点 **Compare & pull request**
-4. 维护者在 PR 页面点 **Merge pull request** 即可合入 `main`——一次确认，代码即生效
+- GitHub：https://github.com/qjl1025/ydy
+- Gitee：https://gitee.com/qianlu123/ydy
 
-直接推送权限（不走 PR）需要协作者身份，由维护者按需授予。
+### 作为成员直接改（Gitee）
+
+1. 接受邀请后 `git clone https://gitee.com/qianlu123/ydy.git`
+2. `npm install && ./start.sh`，浏览器打开 http://127.0.0.1:7817
+3. 开分支改：`git switch -c feat/your-change`，提交后 `git push origin feat/your-change`
+4. 在仓库页面发起 Pull Request，维护者点一次合并即进入 `master`
+
+成员管理入口：仓库 → 管理 → 仓库成员管理（免费版私有仓库上限 5 人；切成公开仓库后不限，也可以走 fork + PR）。
+
+### 作为外部贡献者（无成员权限）
+
+Fork → 改 → 提 Pull Request，同样一次合并即生效。
 
 ## 事实与边界
 

@@ -9,9 +9,14 @@
     "start": "node server.mjs",
     "test": "vitest run",
     "test:coverage": "vitest run --coverage",
-    "test:e2e": "node tests/browser.mjs"
+    "test:e2e": "node tests/browser.mjs",
+    "verify": "npm run build && npm run test:coverage && node --test tests/server.test.mjs && node tests/browser.mjs"
   },
-  "dependencies": { "lucide-react": "1.70.0", "react": "19.3.1", "react-dom": "19.3.1" },
+  "dependencies": {
+    "lucide-react": "1.70.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
   "devDependencies": {
     "@types/node": "^25.0.0",
     "@types/react": "^19.0.0",
